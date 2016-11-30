@@ -1,0 +1,12 @@
+4
+YellingIguanas
+FightingSquirrels
+TorturingTurtles
+ScreamingSeahorses
+
+FightingSquirrels	4	TorturingTurtles	21
+YellingIguanas	2	ScreamingSeahorses	12
+FightingSquirrels	6	YellingIguanas	17
+ScreamingSeahorses	24	TorturingTurtles	6
+FightingSquirrels	4	ScreamingSeahorses	5
+TorturingTurtles	15	YellingIguanas	19
